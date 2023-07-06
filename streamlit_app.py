@@ -13,8 +13,8 @@ st.info('Have fun with ChatGPT')
 
 icon_size = 20
 
-st_button('web', 'https://stockwatch-by-david.streamlit.app/', 'Stock Watch', icon_size)
-st_button('web', 'https://askpdf-by-david.streamlit.app/', 'Ask your PDF file', icon_size)
-st_button('web', 'https://search-by-david.streamlit.app/', 'Google Now', icon_size)
-st_button('web', 'https://storymaker-by-david.streamlit.app/', 'Story Maker', icon_size)
-st_button('web', 'https://questions-maker-by-david.streamlit.app/', 'Article and Multiple Choice Maker', icon_size)
+st_button('medium', 'https://stockwatch-by-david.streamlit.app/', 'Stock Watch', icon_size)
+st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask your PDF file', icon_size)
+st_button('medium', 'https://search-by-david.streamlit.app/', 'Google Now', icon_size)
+st_button('medium', 'https://storymaker-by-david.streamlit.app/', 'Story Maker', icon_size)
+st_button('medium', 'https://questions-maker-by-david.streamlit.app/', 'Article and Multiple Choice Maker', icon_size)
