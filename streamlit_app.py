@@ -12,10 +12,13 @@ st.header('David Cheung, Developer')
 st.info('Have fun with ChatGPT')
 
 icon_size = 20
-
-st_button('medium', 'https://stockwatch-by-david.streamlit.app/', 'Stock Watch', icon_size)
-st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask your PDF file', icon_size)
+# Import and Query
+st_button('medium', 'https://ask-orders-csv.streamlit.app/', 'Ask your Orders CSV file', icon_size)
+st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask your Resume PDF file', icon_size)
+# Generative Creation 
+st_button('medium', 'https://storymaker-by-david.streamlit.app/', 'Create your Story', icon_size)
+st_button('medium', 'https://questions-maker-by-david.streamlit.app/', 'Create your Article & Questions-Answer', icon_size)
+st_button('medium', 'https://story-ppt-david.streamlit.app/', 'See Comic Book created by MidJourney ', icon_size)
+# Search & Analsis
 st_button('medium', 'https://search-by-david.streamlit.app/', 'Google Now', icon_size)
-st_button('medium', 'https://storymaker-by-david.streamlit.app/', 'Story Maker', icon_size)
-st_button('medium', 'https://questions-maker-by-david.streamlit.app/', 'Article and Multiple Choice Maker', icon_size)
-st_button('medium', 'https://story-ppt-david.streamlit.app/', 'Comic Book Presentation by MidJourney ', icon_size)
+st_button('medium', 'https://stockwatch-by-david.streamlit.app/', 'Stock Watch', icon_size)
