@@ -18,3 +18,4 @@ st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask your PDF file
 st_button('medium', 'https://search-by-david.streamlit.app/', 'Google Now', icon_size)
 st_button('medium', 'https://storymaker-by-david.streamlit.app/', 'Story Maker', icon_size)
 st_button('medium', 'https://questions-maker-by-david.streamlit.app/', 'Article and Multiple Choice Maker', icon_size)
+st_button('medium', 'https://story-ppt-david.streamlit.app/', 'Comic Book Presentation by MidJourney ', icon_size)
