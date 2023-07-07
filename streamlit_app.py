@@ -13,8 +13,11 @@ st.info('Have fun with ChatGPT')
 
 icon_size = 20
 # Import and Query
-st_button('medium', 'https://ask-orders-csv.streamlit.app/', 'Ask your Orders CSV file', icon_size)
-st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask your Resume PDF file', icon_size)
+st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask Resume PDF file', icon_size)
+st_button('medium', 'https://ask-studyplan.streamlit.app/', 'Summarize your Study Plan', icon_size)
+st_button('medium', 'https://ask-orders-csv.streamlit.app/', 'Summarize your Customers Orders', icon_size)
+
+
 # Generative Creation 
 st_button('medium', 'https://storymaker-by-david.streamlit.app/', 'Create your Story', icon_size)
 st_button('medium', 'https://questions-maker-by-david.streamlit.app/', 'Create your Article & Questions-Answer', icon_size)
