@@ -13,12 +13,15 @@ st.info('Have fun with ChatGPT')
 
 icon_size = 20
 # Import and Query
+
 st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask Resume PDF file', icon_size)
 st_button('medium', 'https://csv-sqldb.streamlit.app/', 'Ask any CSV file', icon_size)
 st_button('medium', 'https://smart-csv.streamlit.app/', 'Ask  CSV by ai', icon_size)
 
 st_button('medium', 'https://ask-studyplan.streamlit.app/', 'Summarize your Study Plan', icon_size)
 st_button('medium', 'https://ask-orders-csv.streamlit.app/', 'Summarize your Customers Orders', icon_size)
+st_button('medium', 'https://xls-loader.streamlit.app/', 'Visualize your Excel Sheet', icon_size)
+
 
 
 
