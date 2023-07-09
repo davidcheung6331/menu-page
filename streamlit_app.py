@@ -14,6 +14,11 @@ st.info('Have fun with ChatGPT')
 icon_size = 20
 # Import and Query
 
+
+
+
+st_button('medium', 'https://prompt-runner.streamlit.app/', 'Prompt Runner', icon_size)
+
 st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask Resume PDF file', icon_size)
 st_button('medium', 'https://csv-sqldb.streamlit.app/', 'Ask any CSV file', icon_size)
 st_button('medium', 'https://smart-csv.streamlit.app/', 'Ask  CSV by ai', icon_size)
