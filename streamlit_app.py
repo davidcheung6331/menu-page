@@ -18,8 +18,8 @@ icon_size = 20
 
 
 st_button('medium', 'https://prompt-runner.streamlit.app/', 'Prompt Runner', icon_size)
-
-st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask Resume PDF file', icon_size)
+st_button('medium', 'https://pdf-automation.streamlit.app/', 'Ask Resume PDF file II', icon_size)
+st_button('medium', 'https://askpdf-by-david.streamlit.app/', 'Ask Resume PDF file I', icon_size)
 st_button('medium', 'https://csv-sqldb.streamlit.app/', 'Ask any CSV file', icon_size)
 st_button('medium', 'https://smart-csv.streamlit.app/', 'Ask  CSV by ai', icon_size)
 
