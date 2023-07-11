@@ -16,6 +16,7 @@ icon_size = 20
 
 
 
+st_button('medium', 'https://hug-bot.streamlit.app/', 'Hug Chat', icon_size)
 st_button('medium', 'https://recommend-cs.streamlit.app/', 'recommend products', icon_size)
 st_button('medium', 'https://prompt-runner.streamlit.app/', 'Prompt Runner', icon_size)
 st_button('medium', 'https://pdf-automation.streamlit.app/', 'Ask Resume PDF file II', icon_size)
